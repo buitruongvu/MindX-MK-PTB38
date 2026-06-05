@@ -22,7 +22,12 @@ is_female = False
 # Kiểu string
 school = "BK HN"
 #Quy tắc đặt tên biến:
-#Tên biến phải bao gồm chữ hoa, chữ thường, số và dấu _ (underscore)
-# Tên biến không được bắt đầu bằng số
-# Tên biến không được trùng với từ khoá trong python
+#Tên biến phải bao gồm chữ hoa, chữ thường, số và dấu _ (underscore).
+# Tên biến không được bắt đầu bằng số.
+# Tên biến không được trùng với từ khoá trong python.
+# Phân biệt chữ in hoa, in thường. Name và name là hai biến khác nhau.
 
+print(input("Họ tên: "))
+print(input("Ngày sinh: "))
+print(input("Quê quán: "))
+print(input("Sở thích: "))
