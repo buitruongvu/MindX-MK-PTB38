@@ -75,4 +75,4 @@ print(not 3>4) #output: True
 
 # Câu 18: Điều gì xảy ra khi thực hiện phép tính `5 / 0` và `5 // 0` trong Python? => Cả hai đều sinh ra ngoại lệ ZeroDivisionError
 # Câu 19: Biểu thức so sánh Tuple `(1, 2, 4) < (1, 2, 3, 5)` sẽ trả về? => 4 < 3 => False
-# Câu 20: Biểu thức `10 > 5 or 5 / 0` có sinh ra lỗi `ZeroDivisionError` không? => 
+# Câu 20: Biểu thức `10 > 5 or 5 / 0` có sinh ra lỗi `ZeroDivisionError` không? => Không, nó trả về True và bỏ qua lỗi do cơ chế đoản mạch
