@@ -1,3 +1,4 @@
+#list (danh sách)
 numbers = [1, 2, 3, 4, 5, 6]
 animal = ["Dogs", "Cats", "Bear"]
 hypers = [1, 2.3, "hello", True]
@@ -10,4 +11,8 @@ for number in numbers:
 print("")
 for pet in animal:
   print(pet, end=" ")
+
+
+
+
 
