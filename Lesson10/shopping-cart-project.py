@@ -23,3 +23,5 @@ while True:
     print("Danh sách sản phẩm: ")
     for index, item in enumerate(product_list):
       print(f"{index + 1}. {item}")
+    item_index = int(input("Nhập chỉ mục của sản phẩm bạn muốn thêm vào giỏ hàng: ")) - 1
+    
